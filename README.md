@@ -1,4 +1,6 @@
-# WW-App
+# WellnessWarrior-App
+
+A mood-based wellness app that helps the user track their moods and provide helpful resources
 
 ## Team: 
 Lorenzo Ortega
