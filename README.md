@@ -2,6 +2,10 @@
 
 A mood-based wellness app that helps the user track their moods and provide helpful resources
 
+## Project Management Using Trello
+
+[WellnessWarrior-App](https://trello.com/b/nvaXZaYZ/wellness-warriors)
+
 ## Team: 
 Lorenzo Ortega
 Qadree Trimble
