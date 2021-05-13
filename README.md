@@ -88,3 +88,17 @@ Plan out what your team’s Git workflow looks like for coding tasks.
         - At least every night.
       - How will you communicate that it’s time to merge?
         - Slack the group.
+
+## Domain Model
+
+[Domain Model](https://app.diagrams.net/#G1KqxX1Wx_IAZhdfO-S202nubEi9l8Q4s7)
+
+## Database Relationship Diagram
+
+```let userMood = new Schema () {```
+  ```email: (String),```
+  ```image: (img_URL),```
+  ```date: (typeOf: Date),```
+  ```emotion: (String),```
+  ```string: (String)```
+```}```
